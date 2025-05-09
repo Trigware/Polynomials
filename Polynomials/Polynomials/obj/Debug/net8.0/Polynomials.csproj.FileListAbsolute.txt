@@ -1,0 +1,14 @@
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\bin\Debug\net8.0\Polynomials.exe
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\bin\Debug\net8.0\Polynomials.deps.json
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\bin\Debug\net8.0\Polynomials.runtimeconfig.json
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\bin\Debug\net8.0\Polynomials.dll
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\bin\Debug\net8.0\Polynomials.pdb
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\obj\Debug\net8.0\Polynomials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\obj\Debug\net8.0\Polynomials.AssemblyInfoInputs.cache
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\obj\Debug\net8.0\Polynomials.AssemblyInfo.cs
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\obj\Debug\net8.0\Polynomials.csproj.CoreCompileInputs.cache
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\obj\Debug\net8.0\Polynomials.dll
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\obj\Debug\net8.0\refint\Polynomials.dll
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\obj\Debug\net8.0\Polynomials.pdb
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\obj\Debug\net8.0\Polynomials.genruntimeconfig.cache
+C:\Users\Honzík\source\repos\Polynomials\Polynomials\obj\Debug\net8.0\ref\Polynomials.dll
